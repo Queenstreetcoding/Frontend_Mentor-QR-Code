@@ -8,13 +8,16 @@
 }
 
 body {
+    display: block;
+    margin: 0 auto;
     background-color: var(--background-color);
     max-width: 1440px;
 }
 
 .qr-section{
     display: block;
-    margin: 150px;
+    margin: 0 auto;
+    padding-top: 150px;
 }
 
 h2{
