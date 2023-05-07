@@ -31,6 +31,7 @@ h2{
 .qr-wrap{
     display: block;
     margin: 0 auto;
+    padding-top: 15px;
     border-radius: 15px;
     background-color:white;
     max-width: 300px;
@@ -41,7 +42,6 @@ h2{
     display: block;
     margin: 0 auto;
     border-radius: 10px;
-    padding-top: 15px;
     max-width: 270px;
     text-align: center;
 }
@@ -49,7 +49,7 @@ h2{
 .qr-wrap p{
     display: block;
     margin: 0 auto;
-    padding: 0 22px 40px 20px;
+    padding: 0 22px 35px 20px;
     font-family: var(--plain-text);
     color: var(--grey-blue);
     font-weight: 400;
